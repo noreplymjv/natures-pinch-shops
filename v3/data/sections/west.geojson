@@ -1,0 +1,1270 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8664241,
+          -37.8303066
+        ]
+      },
+      "properties": {
+        "id": "270397b9627231a5",
+        "name": "Amira Food Wholesaler",
+        "address": "72 New Street VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "wholesale",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:19.204632+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Amira+Food+Wholesaler+72+New+Street+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.899082,
+          -37.7995901
+        ]
+      },
+      "properties": {
+        "id": "30bfe42c68f6cd4f",
+        "name": "Ausin Health",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "health food",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:01.307802+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ausin+Health+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7606419,
+          -37.8680368
+        ]
+      },
+      "properties": {
+        "id": "32550a0e6da43aae",
+        "name": "BALTYK DELI & Co.",
+        "address": "4 Neville Avenue Laverton VIC 3028",
+        "suburb": "Laverton",
+        "postcode": "3028",
+        "section_id": "west",
+        "phone": "+61 3 9369 4739;+61 431 428 150",
+        "website": "http://www.baltykdeli.com.au/",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:23.639801+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BALTYK+DELI+%26+Co.+4+Neville+Avenue+Laverton+VIC+3028+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9010202,
+          -37.7988557
+        ]
+      },
+      "properties": {
+        "id": "672a80de8da559a3",
+        "name": "Ba Lẹ",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:01.247055+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ba+L%E1%BA%B9+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9155579,
+          -37.7559108
+        ]
+      },
+      "properties": {
+        "id": "5e7fb6410e82d3d4",
+        "name": "Backhaus",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:21.557296+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Backhaus+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9096471,
+          -37.7995764
+        ]
+      },
+      "properties": {
+        "id": "3b28bc128da29910",
+        "name": "Backyard",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:15.360270+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Backyard+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7990442,
+          -37.7696917
+        ]
+      },
+      "properties": {
+        "id": "c715965d68eb3aab",
+        "name": "Costco",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "wholesale",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:26.711055+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Costco+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9002557,
+          -37.7864235
+        ]
+      },
+      "properties": {
+        "id": "14368a7096df4ee5",
+        "name": "Deli 4 You",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:08.111007+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Deli+4+You+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8913246,
+          -37.8168159
+        ]
+      },
+      "properties": {
+        "id": "b76246829588b14f",
+        "name": "Dominic's Fresh Fruit",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:55.332622+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dominic%27s+Fresh+Fruit+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8995,
+          -37.8005
+        ]
+      },
+      "properties": {
+        "id": "2b095ce9095dcc51",
+        "name": "Footscray Market",
+        "address": "Leeds Street, Footscray VIC 3011",
+        "suburb": "Footscray",
+        "postcode": "3011",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "fresh food market",
+        "notes": "High spice / specialty stall density",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:18.831472+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Footscray+Market+Leeds+Street%2C+Footscray+VIC+3011+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9017886,
+          -37.8010611
+        ]
+      },
+      "properties": {
+        "id": "91e38f22dfb6f222",
+        "name": "Footscray Market Fresh Fruits & Veggies",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:00.129919+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Footscray+Market+Fresh+Fruits+%26+Veggies+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8821938,
+          -37.8172179
+        ]
+      },
+      "properties": {
+        "id": "98394cd76eeafba0",
+        "name": "Fresh Market",
+        "address": "1-3 High Street Yarraville VIC 3013",
+        "suburb": "Yarraville",
+        "postcode": "3013",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:12.825379+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fresh+Market+1-3+High+Street+Yarraville+VIC+3013+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7757332,
+          -37.8724133
+        ]
+      },
+      "properties": {
+        "id": "442bf6485982fbb3",
+        "name": "Fruits of the Meadows",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "https://www.fruitsofthemeadows.com/",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:20.786184+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fruits+of+the+Meadows+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8324999,
+          -37.7866049
+        ]
+      },
+      "properties": {
+        "id": "7eef0ab00c88ba6c",
+        "name": "Gio Cha Kinh Do",
+        "address": "11 Dickson Street Sunshine VIC 3020",
+        "suburb": "Sunshine",
+        "postcode": "3020",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:59.878221+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gio+Cha+Kinh+Do+11+Dickson+Street+Sunshine+VIC+3020+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9012402,
+          -37.800362
+        ]
+      },
+      "properties": {
+        "id": "57bd50570ec24dfe",
+        "name": "Giò Chả Như Ý",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:00.751289+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gi%C3%B2+Ch%E1%BA%A3+Nh%C6%B0+%C3%9D+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9005,
+          -37.7995
+        ]
+      },
+      "properties": {
+        "id": "25adbd51ce9d6e0e",
+        "name": "Happy Valley Trading / Asian grocery Footscray",
+        "address": "Hopkins Street precinct, Footscray VIC 3011",
+        "suburb": "Footscray",
+        "postcode": "3011",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "specialty grocery",
+        "notes": "West spice & specialty density",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:19.662856+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Happy+Valley+Trading+%2F+Asian+grocery+Footscray+Hopkins+Street+precinct%2C+Footscray+VIC+3011+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8342177,
+          -37.8506107
+        ]
+      },
+      "properties": {
+        "id": "4b5b6792f3afebf9",
+        "name": "Jinhang Lighting and Electrical Wholesale",
+        "address": "1 Drake Boulevard Altona VIC 3018",
+        "suburb": "Altona",
+        "postcode": "3018",
+        "section_id": "west",
+        "phone": "",
+        "website": "https://www.jhmarket.com.au/",
+        "category": "wholesale",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:25.460280+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jinhang+Lighting+and+Electrical+Wholesale+1+Drake+Boulevard+Altona+VIC+3018+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8983485,
+          -37.8008916
+        ]
+      },
+      "properties": {
+        "id": "5deaef7bf736f7be",
+        "name": "John’s Nuts",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:01.424235+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=John%E2%80%99s+Nuts+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9155603,
+          -37.7556403
+        ]
+      },
+      "properties": {
+        "id": "5f0f48dd37eeee86",
+        "name": "Kennedy's Produce Store",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:21.486208+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kennedy%27s+Produce+Store+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8996396,
+          -37.7985542
+        ]
+      },
+      "properties": {
+        "id": "7631b37800d4b90d",
+        "name": "Koala Shop",
+        "address": "62 Nicholson Street VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "health food",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:01.350018+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Koala+Shop+62+Nicholson+Street+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9086971,
+          -37.767974
+        ]
+      },
+      "properties": {
+        "id": "0ff72ded242da1a9",
+        "name": "Lennox St Deli",
+        "address": "130 Eglinton Road Moonee Ponds VIC 3039",
+        "suburb": "Moonee Ponds",
+        "postcode": "3039",
+        "section_id": "west",
+        "phone": "+61 423 715 253",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:18.979811+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lennox+St+Deli+130+Eglinton+Road+Moonee+Ponds+VIC+3039+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9020962,
+          -37.8009466
+        ]
+      },
+      "properties": {
+        "id": "ba235e90dfe17a09",
+        "name": "Lisa Fresh Fruit & Vegetables",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:20.912737+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lisa+Fresh+Fruit+%26+Vegetables+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7899457,
+          -37.7582586
+        ]
+      },
+      "properties": {
+        "id": "dd3fef9ad1b295c0",
+        "name": "Lovely Fresh",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:02.285105+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lovely+Fresh+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9296391,
+          -37.7942847
+        ]
+      },
+      "properties": {
+        "id": "de168ce555a7e490",
+        "name": "Mamma's Grocers",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:09.938233+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mamma%27s+Grocers+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8149995,
+          -37.7767343
+        ]
+      },
+      "properties": {
+        "id": "3b84ba51dc2f2b99",
+        "name": "Mitko Deli",
+        "address": "39 Perth Avenue Albion VIC 3020",
+        "suburb": "Albion",
+        "postcode": "3020",
+        "section_id": "west",
+        "phone": "+61 3 9311 8490",
+        "website": "https://mitkodeli.com",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:53.007030+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mitko+Deli+39+Perth+Avenue+Albion+VIC+3020+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8142153,
+          -37.8069192
+        ]
+      },
+      "properties": {
+        "id": "ee92031e4b4b90bb",
+        "name": "Mount Zero Olives",
+        "address": "6 Law Court VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "https://mountzeroolives.com.au/",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:25.569496+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mount+Zero+Olives+6+Law+Court+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9367785,
+          -37.7975154
+        ]
+      },
+      "properties": {
+        "id": "dcdf87d76146ecb1",
+        "name": "Olsson's",
+        "address": "15 Langford Street VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "wholesale",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:12.280897+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Olsson%27s+15+Langford+Street+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8299779,
+          -37.7962221
+        ]
+      },
+      "properties": {
+        "id": "0ed6f1d8758e5e29",
+        "name": "Pauls Direct Outlet",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "wholesale",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:00.591086+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pauls+Direct+Outlet+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7356671,
+          -37.8827261
+        ]
+      },
+      "properties": {
+        "id": "35b6b5e736aa2d81",
+        "name": "Point Cook Fruit & Veggies",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:22.323622+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Point+Cook+Fruit+%26+Veggies+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7442731,
+          -37.8360479
+        ]
+      },
+      "properties": {
+        "id": "f76b9394af32f93d",
+        "name": "Pricerite Insulation",
+        "address": "17 Infinity Drive VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "+61 444 511 783",
+        "website": "https://www.priceriteinsulation.com.au/",
+        "category": "wholesale",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:08.143463+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pricerite+Insulation+17+Infinity+Drive+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9010245,
+          -37.86476
+        ]
+      },
+      "properties": {
+        "id": "5bf192a0e4795835",
+        "name": "Regional Farmers Markets",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "+61 419 351 878",
+        "website": "http://www.rfm.net.au/",
+        "category": "marketplace",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:13.929199+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Regional+Farmers+Markets+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8326461,
+          -37.78576
+        ]
+      },
+      "properties": {
+        "id": "bcaf3b33fdfbcde9",
+        "name": "Sagar Spices",
+        "address": "254 Hampshire Road VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:59.978607+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sagar+Spices+254+Hampshire+Road+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8328698,
+          -37.7855167
+        ]
+      },
+      "properties": {
+        "id": "addd940c623b6e45",
+        "name": "Sagar Spices",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:00.014761+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sagar+Spices+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8346543,
+          -37.8506553
+        ]
+      },
+      "properties": {
+        "id": "f66bedbf56f7a626",
+        "name": "Shine Trimmings and Fabrics",
+        "address": "1 Drake Boulevard Altona VIC 3018",
+        "suburb": "Altona",
+        "postcode": "3018",
+        "section_id": "west",
+        "phone": "+61 3 9360 0600",
+        "website": "https://shinewholesale.com.au/",
+        "category": "wholesale",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:25.857255+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shine+Trimmings+and+Fabrics+1+Drake+Boulevard+Altona+VIC+3018+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8833822,
+          -37.8306438
+        ]
+      },
+      "properties": {
+        "id": "203716b73ce76401",
+        "name": "Spotswood Slow Food Market",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "marketplace",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:13.014546+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spotswood+Slow+Food+Market+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7757158,
+          -37.8725477
+        ]
+      },
+      "properties": {
+        "id": "949ec93c7a4b527a",
+        "name": "The Olive Branch",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:20.695549+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The+Olive+Branch+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8344936,
+          -37.7821985
+        ]
+      },
+      "properties": {
+        "id": "9c2fbdf22767cc18",
+        "name": "Vic Fields Fruit & Veg",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:54.122641+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vic+Fields+Fruit+%26+Veg+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8128273,
+          -37.8049595
+        ]
+      },
+      "properties": {
+        "id": "af60783979b6ccee",
+        "name": "Vincent Vegetarian Food",
+        "address": "36 West Circuit VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "health food",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:25.631759+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vincent+Vegetarian+Food+36+West+Circuit+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8647609,
+          -37.7692927
+        ]
+      },
+      "properties": {
+        "id": "456736f6a3dda74b",
+        "name": "Vạn Thành Asian Grocery",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:13.790129+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=V%E1%BA%A1n+Th%C3%A0nh+Asian+Grocery+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9055,
+          -37.8615
+        ]
+      },
+      "properties": {
+        "id": "de237ea9663d718e",
+        "name": "Williamstown specialty / gourmet cluster",
+        "address": "Nelson Place / Ferguson Street, Williamstown VIC 3016",
+        "suburb": "Williamstown",
+        "postcode": "3016",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "gourmet strip",
+        "notes": "Bayside west independents",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:19.747043+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Williamstown+specialty+%2F+gourmet+cluster+Nelson+Place+%2F+Ferguson+Street%2C+Williamstown+VIC+3016+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8895,
+          -37.8165
+        ]
+      },
+      "properties": {
+        "id": "893717fad607a635",
+        "name": "Yarraville Village specialty foods",
+        "address": "Anderson / Ballarat Street, Yarraville VIC 3013",
+        "suburb": "Yarraville",
+        "postcode": "3013",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "gourmet strip",
+        "notes": "Walk village for independents",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:19.704339+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yarraville+Village+specialty+foods+Anderson+%2F+Ballarat+Street%2C+Yarraville+VIC+3013+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8304217,
+          -37.8695606
+        ]
+      },
+      "properties": {
+        "id": "8c0405e47e4fb1d6",
+        "name": "matteo's delicatessen",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "west",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:23.744963+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=matteo%27s+delicatessen+VIC+Melbourne"
+      }
+    }
+  ],
+  "metadata": {
+    "project": "natures-pinch-shop-finder",
+    "exported_at": "2026-09-17T13:48:34.066784+00:00",
+    "count": 42
+  }
+}

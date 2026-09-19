@@ -1,0 +1,400 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1177554,
+          -38.0223106
+        ]
+      },
+      "properties": {
+        "id": "0c9f7c7a65d49d0a",
+        "name": "Aspendale Gardens Fruit Centre",
+        "address": "11 Narelle Drive VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "bayside-frankston",
+        "phone": "+61 3 9590 9086",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:52.881182+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aspendale+Gardens+Fruit+Centre+11+Narelle+Drive+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1262293,
+          -38.1415516
+        ]
+      },
+      "properties": {
+        "id": "6f9211d5aeb323fc",
+        "name": "Blue Bay Deli",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "bayside-frankston",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:02.524438+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Blue+Bay+Deli+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.130677,
+          -38.1579697
+        ]
+      },
+      "properties": {
+        "id": "7daf0cd215b80b35",
+        "name": "Frank & Jenny's Fruit Shop",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "bayside-frankston",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:19.492168+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Frank+%26+Jenny%27s+Fruit+Shop+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1225,
+          -38.1445
+        ]
+      },
+      "properties": {
+        "id": "02f29068b0af280f",
+        "name": "Frankston gourmet / health food cluster",
+        "address": "Young Street / Playne Street, Frankston VIC 3199",
+        "suburb": "Frankston",
+        "postcode": "3199",
+        "section_id": "bayside-frankston",
+        "phone": "",
+        "website": "",
+        "category": "health / specialty",
+        "notes": "Confirm independents on Maps visit",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:20.223223+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Frankston+gourmet+%2F+health+food+cluster+Young+Street+%2F+Playne+Street%2C+Frankston+VIC+3199+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1160311,
+          -38.0531535
+        ]
+      },
+      "properties": {
+        "id": "9f18c9340f72f13e",
+        "name": "Go Vita",
+        "address": "417 Nepean Highway VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "bayside-frankston",
+        "phone": "",
+        "website": "",
+        "category": "health food",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:24.664306+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Go+Vita+417+Nepean+Highway+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1663802,
+          -38.0934205
+        ]
+      },
+      "properties": {
+        "id": "7d83e1b29e95452c",
+        "name": "Lite and Easy",
+        "address": "42 Colemans Road VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "bayside-frankston",
+        "phone": "",
+        "website": "",
+        "category": "health food",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:14.679326+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lite+and+Easy+42+Colemans+Road+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1255651,
+          -38.1424972
+        ]
+      },
+      "properties": {
+        "id": "cfc8c23e57863f52",
+        "name": "Lucky's Deli",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "bayside-frankston",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:57.248208+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lucky%27s+Deli+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1671785,
+          -38.1521318
+        ]
+      },
+      "properties": {
+        "id": "e5850319de2f2063",
+        "name": "MarketPlace Fresh",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "bayside-frankston",
+        "phone": "",
+        "website": "https://marketplacefresh.com.au/",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:08.078285+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MarketPlace+Fresh+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0365,
+          -38.2185
+        ]
+      },
+      "properties": {
+        "id": "020b0a06947d8d80",
+        "name": "Mornington Main Street specialty foods",
+        "address": "Main Street, Mornington VIC 3931",
+        "suburb": "Mornington",
+        "postcode": "3931",
+        "section_id": "bayside-frankston",
+        "phone": "",
+        "website": "",
+        "category": "gourmet strip",
+        "notes": "Peninsula premium strip",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:20.198118+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mornington+Main+Street+specialty+foods+Main+Street%2C+Mornington+VIC+3931+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1250519,
+          -38.1449693
+        ]
+      },
+      "properties": {
+        "id": "086b7b3ada6ba904",
+        "name": "Planet Fruit & Vegetables",
+        "address": "71 Young Street Frankston VIC",
+        "suburb": "Frankston",
+        "postcode": "",
+        "section_id": "bayside-frankston",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:08.842690+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Planet+Fruit+%26+Vegetables+71+Young+Street+Frankston+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1271333,
+          -38.1028195
+        ]
+      },
+      "properties": {
+        "id": "d5fe963bb231d0b0",
+        "name": "Seaford Farmer's Market",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "bayside-frankston",
+        "phone": "",
+        "website": "https://www.facebook.com/SeafordFarmersMarket/",
+        "category": "marketplace",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:08.730050+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Seaford+Farmer%27s+Market+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1230605,
+          -38.075402
+        ]
+      },
+      "properties": {
+        "id": "a5c09866ecf0fe52",
+        "name": "The Deli Stall",
+        "address": "503 Station Street Carrum VIC 3197",
+        "suburb": "Carrum",
+        "postcode": "3197",
+        "section_id": "bayside-frankston",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:24.778563+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The+Deli+Stall+503+Station+Street+Carrum+VIC+3197+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1120465,
+          -38.0377127
+        ]
+      },
+      "properties": {
+        "id": "8fd90efd89fe0950",
+        "name": "The Green Scoop",
+        "address": "30 Edithvale Road Edithvale VIC 3196",
+        "suburb": "Edithvale",
+        "postcode": "3196",
+        "section_id": "bayside-frankston",
+        "phone": "",
+        "website": "",
+        "category": "health food",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:01.634937+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The+Green+Scoop+30+Edithvale+Road+Edithvale+VIC+3196+Melbourne"
+      }
+    }
+  ],
+  "metadata": {
+    "project": "natures-pinch-shop-finder",
+    "exported_at": "2026-09-17T13:48:33.899997+00:00",
+    "count": 13
+  }
+}

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Nature's Pinch — Shop Finder v5</title>
+  <meta name="description" content="Greater Melbourne premium spice, gourmet and organic shop routes for Nature's Pinch." />
+  <meta name="theme-color" content="#2f6b4f" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body data-layout-mode="adaptive" data-layout-resolved="desktop">
+  <header class="topbar">
+    <div class="topbar-brand">
+      <span class="brand-mark sm">NP</span>
+      <span class="topbar-title">Nature's Pinch</span>
+      <span class="topbar-tag">v5</span>
+    </div>
+    <div class="layout-switcher" role="radiogroup" aria-label="Layout mode">
+      <button type="button" class="layout-btn" data-layout="adaptive" aria-pressed="true">Adaptive</button>
+      <button type="button" class="layout-btn" data-layout="desktop" aria-pressed="false">Desktop</button>
+      <button type="button" class="layout-btn" data-layout="mobile" aria-pressed="false">Mobile</button>
+      <button type="button" class="layout-btn" data-layout="fold" aria-pressed="false">Fold / Dual</button>
+    </div>
+  </header>
+
+  <div class="app">
+    <aside class="sidebar">
+      <header class="brand brand-in-sidebar">
+        <div class="brand-mark">NP</div>
+        <div>
+          <h1>Nature's Pinch</h1>
+          <p>v5 · find + add shops</p>
+        </div>
+      </header>
+
+      <p class="version-links">
+        <a href="./">v5 (this)</a>
+        <a href="../v7/">v7</a>
+        <a href="../v4/">v4</a>
+        <a href="../v3/">v3</a>
+        <a href="../v2/">v2</a>
+        <a href="../v1/">v1</a>
+        <a href="../">All versions</a>
+      </p>
+
+      <ol class="howto">
+        <li><strong>Find</strong> a shop by name (all categories) or <strong>Add</strong> a new one</li>
+        <li>Pick category + section · use <strong>Plan by time</strong></li>
+        <li>Open Maps · log visits in <strong>CRM</strong></li>
+      </ol>
+
+      <div class="panel category-panel">
+        <label class="label">Shop type</label>
+        <div class="category-tabs" id="categoryTabs" role="tablist" aria-label="Sales category"></div>
+        <p class="hint" id="categoryHint">Priority buyers: Western premium independents.</p>
+      </div>
+
+      <div class="panel status-panel">
+        <div id="statusLine">Loading…</div>
+        <div class="key-hint" id="keyHint">CRM &amp; statuses saved in this browser. Export to backup.</div>
+      </div>
+
+      <div class="panel step-panel">
+        <label class="label" for="sectionSelect">1 · Map section</label>
+        <select id="sectionSelect"></select>
+        <button id="btnOpenMaps" class="btn" type="button">Browse section in Google Maps</button>
+      </div>
+
+      <div class="panel find-panel">
+        <label class="label" for="searchBox">Find shop</label>
+        <div class="find-row">
+          <input id="searchBox" type="search" placeholder="Store name…" autocomplete="off" />
+          <select id="statusFilter" aria-label="Filter by status">
+            <option value="">All status</option>
+            <option value="prospect">Prospect</option>
+            <option value="planned">Planned visit</option>
+            <option value="visited">Visited</option>
+            <option value="customer">Customer</option>
+            <option value="skip">Skip</option>
+          </select>
+          <button id="btnFind" class="btn primary" type="button">Find</button>
+        </div>
+        <label class="check-inline"><input type="checkbox" id="findInFilters" /> Search only in current category + section</label>
+        <div id="findResults" class="find-results" hidden></div>
+      </div>
+
+      <div class="panel add-panel">
+        <label class="label">Add new shop</label>
+        <p class="hint">Not in the list? Look up a place on OpenStreetMap, then save to this browser.</p>
+        <label class="field-label" for="addShopName">Shop name</label>
+        <input id="addShopName" type="text" placeholder="e.g. Organic Empire Hawthorn" autocomplete="off" />
+        <div class="btn-row">
+          <button id="btnLookupPlace" class="btn primary" type="button">Lookup place</button>
+          <button id="btnAddMaps" class="btn" type="button">Open in Google Maps</button>
+        </div>
+        <div id="addLookupResults" class="find-results" hidden></div>
+        <div id="addConfirm" class="add-confirm" hidden>
+          <p id="addConfirmSummary" class="hint"></p>
+          <label class="field-label" for="addCategory">Sales category</label>
+          <select id="addCategory">
+            <option value="western_premium" selected>Western premium</option>
+            <option value="indian">Indian</option>
+            <option value="asian">Asian</option>
+            <option value="health_chains">Health / vitamin chains</option>
+            <option value="other">Uncategorised</option>
+          </select>
+          <button id="btnSaveCustomShop" class="btn accent" type="button">Save to my list</button>
+        </div>
+      </div>
+
+      <div class="panel route-panel">
+        <label class="label">2–3 · Today’s route</label>
+        <p class="hint" id="selectHint">Tick shops below (or on the map).</p>
+        <div class="btn-row">
+          <button id="btnSelectVisible" class="btn" type="button">Select all visible</button>
+          <button id="btnClearSelect" class="btn" type="button">Clear</button>
+        </div>
+        <button id="btnRoute" class="btn primary" type="button">Best route for selection</button>
+        <button id="btnOpenRoute" class="btn accent" type="button" disabled>Open route in Google Maps</button>
+        <div id="routeSummary" class="route-summary"></div>
+        <ol id="routeStops" class="route-stops" hidden></ol>
+      </div>
+
+      <div class="panel time-panel">
+        <label class="label">Plan by time</label>
+        <p class="hint">How many shops fit in your available time from where you are now?</p>
+        <label class="field-label" for="timeBudgetHours">Available time (hours)</label>
+        <input id="timeBudgetHours" type="number" min="0.5" max="12" step="0.5" value="3" />
+        <label class="field-label" for="timeVisitMins">Minutes per shop visit</label>
+        <input id="timeVisitMins" type="number" min="10" max="120" step="5" value="30" />
+        <label class="field-label" for="timeOrigin">Current address (Melbourne)</label>
+        <input id="timeOrigin" type="text" placeholder="e.g. 1 Collins St, Melbourne VIC" />
+        <p class="hint tiny">Or paste lat,lng — e.g. -37.8136, 144.9631</p>
+        <button id="btnPlanByTime" class="btn primary" type="button">Suggest shops for my time</button>
+        <div id="timePlanSummary" class="route-summary" aria-live="polite"></div>
+        <ol id="timePlanStops" class="route-stops" hidden></ol>
+      </div>
+
+      <details class="more-panel">
+        <summary>More · CRM backup &amp; downloads</summary>
+        <div class="panel nested">
+          <label class="label">CRM backup</label>
+          <div class="btn-row">
+            <button id="btnExportCrmJson" class="btn ghost" type="button">Export CRM JSON</button>
+            <button id="btnExportCrmCsv" class="btn ghost" type="button">Export CRM CSV</button>
+          </div>
+          <label class="btn ghost file-btn">
+            Import CRM JSON
+            <input id="crmImportFile" type="file" accept="application/json,.json" hidden />
+          </label>
+        </div>
+        <div class="panel nested">
+          <label class="label">Shop data downloads</label>
+          <div class="btn-row">
+            <a class="btn ghost" href="./data/shops.csv" download>CSV</a>
+            <a class="btn ghost" href="./data/shops.json" download>JSON</a>
+          </div>
+          <div class="btn-row">
+            <a class="btn ghost" href="./data/shops.geojson" download>GeoJSON</a>
+            <button id="btnExportMd" class="btn ghost" type="button">Markdown</button>
+          </div>
+          <a class="btn ghost" href="./data/ROUTES.md" target="_blank" rel="noopener">Full route index</a>
+        </div>
+        <div class="panel nested suburbs-panel">
+          <label class="label">Postcodes / suburbs</label>
+          <div id="suburbList" class="suburb-list"></div>
+        </div>
+      </details>
+    </aside>
+
+    <main class="main">
+      <div class="map-pane">
+        <div id="map"></div>
+      </div>
+      <section class="shop-list-wrap">
+        <div class="list-header">
+          <h2 id="listTitle">Shops</h2>
+          <span id="listCount"></span>
+        </div>
+        <div id="shopList" class="shop-list"></div>
+      </section>
+    </main>
+  </div>
+
+  <div class="mobile-sticky" id="mobileSticky" aria-label="Primary route actions">
+    <button id="btnRouteSticky" class="btn primary" type="button">Best route</button>
+    <button id="btnOpenRouteSticky" class="btn accent" type="button" disabled>Open Maps</button>
+  </div>
+
+  <aside id="crmDrawer" class="crm-drawer" hidden aria-hidden="true">
+    <div class="crm-sheet">
+      <header class="crm-head">
+        <div>
+          <p class="crm-kicker">Shop CRM</p>
+          <h2 id="crmShopName">Shop</h2>
+          <p id="crmShopMeta" class="meta"></p>
+        </div>
+        <button id="crmClose" class="btn ghost crm-close" type="button" aria-label="Close">Close</button>
+      </header>
+
+      <div class="crm-status-row" id="crmStatusRow">
+        <button type="button" data-crm-status="planned">Plan</button>
+        <button type="button" data-crm-status="visited">Visited</button>
+        <button type="button" data-crm-status="customer">Customer</button>
+        <button type="button" data-crm-status="skip">Skip</button>
+      </div>
+
+      <form id="crmForm" class="crm-form">
+        <div class="crm-grid">
+          <label>Contact name
+            <input id="crmContactName" name="contactName" autocomplete="name" />
+          </label>
+          <label>Role
+            <input id="crmContactRole" name="contactRole" placeholder="Buyer, owner…" />
+          </label>
+          <label>Phone
+            <input id="crmPhone" name="phone" type="tel" autocomplete="tel" />
+          </label>
+          <label>Email
+            <input id="crmEmail" name="email" type="email" autocomplete="email" />
+          </label>
+          <label class="span-2">Visit date
+            <input id="crmVisitDate" name="visitDate" type="date" />
+          </label>
+          <label class="span-2">Outcome
+            <select id="crmOutcome" name="outcome">
+              <option value="">—</option>
+              <option value="interested">Interested</option>
+              <option value="callback">Callback</option>
+              <option value="stocked">Stocked / buying</option>
+              <option value="not_now">Not now</option>
+            </select>
+          </label>
+          <label class="span-2">Business notes
+            <textarea id="crmBusinessNotes" name="businessNotes" rows="3" placeholder="What they stock, interest in Nature's Pinch spices, next follow-up…"></textarea>
+          </label>
+          <label class="span-2">Add visit log entry
+            <textarea id="crmLogEntry" name="logEntry" rows="2" placeholder="What happened on this visit…"></textarea>
+          </label>
+        </div>
+        <div class="crm-actions">
+          <button type="submit" class="btn primary">Save CRM</button>
+          <a id="crmMapsLink" class="btn" href="#" target="_blank" rel="noopener">Open in Maps</a>
+        </div>
+      </form>
+
+      <div class="crm-log-wrap">
+        <label class="label">Visit history</label>
+        <ul id="crmVisitLog" class="crm-log"></ul>
+      </div>
+    </div>
+  </aside>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

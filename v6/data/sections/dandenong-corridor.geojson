@@ -1,0 +1,580 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1509657,
+          -37.9503588
+        ]
+      },
+      "properties": {
+        "id": "3d93a200947c3c26",
+        "name": "Anloi Deli & Marinades",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "dandenong-corridor",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:57.691524+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Anloi+Deli+%26+Marinades+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.212642,
+          -37.9544308
+        ]
+      },
+      "properties": {
+        "id": "0903cd86c356cb81",
+        "name": "Bambi Deli",
+        "address": "46C Brady Road Dandenong North VIC 3175",
+        "suburb": "Dandenong North",
+        "postcode": "3175",
+        "section_id": "dandenong-corridor",
+        "phone": "+61 3 9795 4847",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:26.527312+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bambi+Deli+46C+Brady+Road+Dandenong+North+VIC+3175+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1510653,
+          -37.9502373
+        ]
+      },
+      "properties": {
+        "id": "e3772c218ece82ce",
+        "name": "Binh Minh",
+        "address": "46-48 Buckingham Avenue VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "dandenong-corridor",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:55.645081+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Binh+Minh+46-48+Buckingham+Avenue+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1498766,
+          -37.9717516
+        ]
+      },
+      "properties": {
+        "id": "09519f41a4afe43e",
+        "name": "Binh Minh Fresh",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "dandenong-corridor",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:56.667130+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Binh+Minh+Fresh+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1531487,
+          -37.950365
+        ]
+      },
+      "properties": {
+        "id": "dd13cfc8d87097a1",
+        "name": "Chan Kee",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "dandenong-corridor",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:55.754931+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chan+Kee+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2145,
+          -37.9875
+        ]
+      },
+      "properties": {
+        "id": "596ed3f3a6e25a70",
+        "name": "Dandenong Market",
+        "address": "Cleeland Street, Dandenong VIC 3175",
+        "suburb": "Dandenong",
+        "postcode": "3175",
+        "section_id": "dandenong-corridor",
+        "phone": "",
+        "website": "https://www.dandenongmarket.com.au",
+        "category": "fresh food market",
+        "notes": "Wholesale-friendly market",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:18.891316+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dandenong+Market+Cleeland+Street%2C+Dandenong+VIC+3175+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1506843,
+          -37.9479933
+        ]
+      },
+      "properties": {
+        "id": "6ce72d318f0d7eb0",
+        "name": "Daton Groceries",
+        "address": "36 Queens Avenue VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "dandenong-corridor",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:55.845609+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Daton+Groceries+36+Queens+Avenue+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2165292,
+          -37.9892868
+        ]
+      },
+      "properties": {
+        "id": "4d34fc08b70439ed",
+        "name": "Emrah Food Mart",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "dandenong-corridor",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:56.946231+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Emrah+Food+Mart+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2367359,
+          -37.9211468
+        ]
+      },
+      "properties": {
+        "id": "cb3eefb431589583",
+        "name": "Henry's Mercato",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "dandenong-corridor",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:02.239583+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Henry%27s+Mercato+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1215,
+          -37.9155
+        ]
+      },
+      "properties": {
+        "id": "daf89266ec65c7db",
+        "name": "Indian grocery & spice cluster Clayton",
+        "address": "Clayton Road, Clayton VIC 3168",
+        "suburb": "Clayton",
+        "postcode": "3168",
+        "section_id": "dandenong-corridor",
+        "phone": "",
+        "website": "",
+        "category": "spice / specialty grocery strip",
+        "notes": "Dense spice retail — walk Clayton Rd",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:19.331641+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Indian+grocery+%26+spice+cluster+Clayton+Clayton+Road%2C+Clayton+VIC+3168+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1507237,
+          -37.9485042
+        ]
+      },
+      "properties": {
+        "id": "19c1526f1e5ef5e6",
+        "name": "Kampong Cham Grocery",
+        "address": "1-3 St Johns Avenue VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "dandenong-corridor",
+        "phone": "+61 488 889 717",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:55.788863+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kampong+Cham+Grocery+1-3+St+Johns+Avenue+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.15084,
+          -37.9501883
+        ]
+      },
+      "properties": {
+        "id": "b98f09b4aa9d0430",
+        "name": "Lien Hung Chinese Grocery",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "dandenong-corridor",
+        "phone": "+61 3 9547 4808",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:55.990936+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lien+Hung+Chinese+Grocery+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2716005,
+          -38.0175534
+        ]
+      },
+      "properties": {
+        "id": "df42ae2cd4d05743",
+        "name": "Manila Grocers",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "dandenong-corridor",
+        "phone": "",
+        "website": "",
+        "category": "wholesale",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:00.344098+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Manila+Grocers+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.178516,
+          -37.9537601
+        ]
+      },
+      "properties": {
+        "id": "059036517bb427c0",
+        "name": "Market Europa",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "dandenong-corridor",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:55.889636+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Market+Europa+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1525,
+          -37.9495
+        ]
+      },
+      "properties": {
+        "id": "74829c7ca42bb5b8",
+        "name": "Springvale Asian Grocery cluster",
+        "address": "Springvale Road, Springvale VIC 3171",
+        "suburb": "Springvale",
+        "postcode": "3171",
+        "section_id": "dandenong-corridor",
+        "phone": "",
+        "website": "",
+        "category": "specialty / spice grocery",
+        "notes": "Dense spice & specialty grocery strip",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:38:27.308920+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Springvale+Asian+Grocery+cluster+Springvale+Road%2C+Springvale+VIC+3171+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1525,
+          -37.9495
+        ]
+      },
+      "properties": {
+        "id": "b4abb2682db9b6e7",
+        "name": "Springvale shopping strip (Asian groceries & spices)",
+        "address": "Springvale Road, Springvale VIC 3171",
+        "suburb": "Springvale",
+        "postcode": "3171",
+        "section_id": "dandenong-corridor",
+        "phone": "",
+        "website": "",
+        "category": "specialty / spice grocery strip",
+        "notes": "Walk the strip for spice & specialty independents",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:18.925453+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Springvale+shopping+strip+%28Asian+groceries+%26+spices%29+Springvale+Road%2C+Springvale+VIC+3171+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1515148,
+          -37.9515898
+        ]
+      },
+      "properties": {
+        "id": "4faacede6eee9c67",
+        "name": "Thanh Thien Springvale Fresh Fruit Market",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "dandenong-corridor",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:56.053923+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Thanh+Thien+Springvale+Fresh+Fruit+Market+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2042816,
+          -37.9714726
+        ]
+      },
+      "properties": {
+        "id": "efba40e05a46ffcc",
+        "name": "Uncle's Smallgoods",
+        "address": "32 Gladstone Road Dandenong VIC 3175",
+        "suburb": "Dandenong",
+        "postcode": "3175",
+        "section_id": "dandenong-corridor",
+        "phone": "+61 3 9793 0135",
+        "website": "https://www.unclessmallgoods.com/",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:26.787306+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Uncle%27s+Smallgoods+32+Gladstone+Road+Dandenong+VIC+3175+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2163816,
+          -37.9891208
+        ]
+      },
+      "properties": {
+        "id": "1ec2515cdc4c470d",
+        "name": "Wisla Continental",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "dandenong-corridor",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:57.194490+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Wisla+Continental+VIC+Melbourne"
+      }
+    }
+  ],
+  "metadata": {
+    "project": "natures-pinch-shop-finder",
+    "exported_at": "2026-09-17T13:48:33.905840+00:00",
+    "count": 19
+  }
+}

@@ -1,0 +1,1360 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1129559,
+          -37.7721692
+        ]
+      },
+      "properties": {
+        "id": "d42067bc9d31ce5e",
+        "name": "5 The Mall Fruit Market",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:21.441340+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=5+The+Mall+Fruit+Market+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1224878,
+          -37.8196953
+        ]
+      },
+      "properties": {
+        "id": "13b54de3d20ad986",
+        "name": "Amazing Veggies",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:14.869053+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Amazing+Veggies+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1512162,
+          -37.8205879
+        ]
+      },
+      "properties": {
+        "id": "0f6726df9e82a4b3",
+        "name": "Angelo's Organic",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:55.149545+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Angelo%27s+Organic+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2103543,
+          -37.8761745
+        ]
+      },
+      "properties": {
+        "id": "3f658e6d5c7b3136",
+        "name": "Apples On High",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:52.851355+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Apples+On+High+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2057013,
+          -37.8751633
+        ]
+      },
+      "properties": {
+        "id": "8ccb1ce02e85b3bf",
+        "name": "Big Watermelon",
+        "address": "1161 High Street Road Wantirna South VIC 3152",
+        "suburb": "Wantirna South",
+        "postcode": "3152",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "https://www.bigwatermelon.com.au/",
+        "category": "organic greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:18.108926+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Big+Watermelon+1161+High+Street+Road+Wantirna+South+VIC+3152+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2057798,
+          -37.8750119
+        ]
+      },
+      "properties": {
+        "id": "d66434a867545115",
+        "name": "Big Watermelon Bushy Park Wholesale",
+        "address": "1161 High Street Road VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "http://bushyparkwholesale.com.au/",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:53.865907+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Big+Watermelon+Bushy+Park+Wholesale+1161+High+Street+Road+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1353062,
+          -37.7316767
+        ]
+      },
+      "properties": {
+        "id": "09db472ae49329a9",
+        "name": "Bolton Street Deli",
+        "address": "120-122 Bolton Street VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:09.360284+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bolton+Street+Deli+120-122+Bolton+Street+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1353429,
+          -37.7314704
+        ]
+      },
+      "properties": {
+        "id": "82bcdbe98a3ff8ed",
+        "name": "Bolton Street Fruit Market",
+        "address": "130 Bolton Street VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:09.301823+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bolton+Street+Fruit+Market+130+Bolton+Street+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1203412,
+          -37.8196048
+        ]
+      },
+      "properties": {
+        "id": "436ed1fb6d20870c",
+        "name": "Coles",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "organic supermarket",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:06.193054+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Coles+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2252706,
+          -37.8145817
+        ]
+      },
+      "properties": {
+        "id": "a876f1e9649623ad",
+        "name": "Costco",
+        "address": "29 Bond Street VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "+61 3 8873 6700",
+        "website": "https://www.costco.com.au/",
+        "category": "wholesale",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:22.747808+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Costco+29+Bond+Street+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1275763,
+          -37.8761151
+        ]
+      },
+      "properties": {
+        "id": "253c114d0eb18feb",
+        "name": "Deli'sh @ Hamilton",
+        "address": "17 Hamilton Place VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:53.536625+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Deli%27sh+%40+Hamilton+17+Hamilton+Place+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1220013,
+          -37.8196697
+        ]
+      },
+      "properties": {
+        "id": "2bf3fb8209c82d9d",
+        "name": "Emperor Nutrition",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "health food",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:14.965545+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Emperor+Nutrition+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1121821,
+          -37.7727342
+        ]
+      },
+      "properties": {
+        "id": "9679d66b0c0e2b06",
+        "name": "Fayze's Fruit & Veg Macedon Square",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:21.164907+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fayze%27s+Fruit+%26+Veg+Macedon+Square+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1201265,
+          -37.8184934
+        ]
+      },
+      "properties": {
+        "id": "3002abc996af2b8c",
+        "name": "Fruit Life",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:19.992081+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fruit+Life+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1140303,
+          -37.7731263
+        ]
+      },
+      "properties": {
+        "id": "968e30268c909201",
+        "name": "Fruit Star Fruits & Vegetables",
+        "address": "325 Manningham Road VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:19.911040+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fruit+Star+Fruits+%26+Vegetables+325+Manningham+Road+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0825,
+          -37.8875
+        ]
+      },
+      "properties": {
+        "id": "ff6f9d548c380ba9",
+        "name": "Gewürzhaus Chadstone",
+        "address": "Chadstone Shopping Centre, Chadstone VIC 3148",
+        "suburb": "Chadstone",
+        "postcode": "3148",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "https://www.gewurzhaus.com.au",
+        "category": "spice shop",
+        "notes": "Premium spice retailer",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:18.418207+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gew%C3%BCrzhaus+Chadstone+Chadstone+Shopping+Centre%2C+Chadstone+VIC+3148+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2035448,
+          -37.8762127
+        ]
+      },
+      "properties": {
+        "id": "580e6ff7276af4d7",
+        "name": "Ginni Market",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "http://www.ginni.com.au/",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:54.912046+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ginni+Market+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1215,
+          -37.8195
+        ]
+      },
+      "properties": {
+        "id": "2efc9768045085f6",
+        "name": "Go Vita / health food cluster Box Hill",
+        "address": "Station Street precinct, Box Hill VIC 3128",
+        "suburb": "Box Hill",
+        "postcode": "3128",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "health food store",
+        "notes": "Confirm current Go Vita / independents on visit",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:19.290512+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Go+Vita+%2F+health+food+cluster+Box+Hill+Station+Street+precinct%2C+Box+Hill+VIC+3128+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1618125,
+          -37.9058565
+        ]
+      },
+      "properties": {
+        "id": "773568c243019292",
+        "name": "Gof's Fresh Produce",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:55.687326+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gof%27s+Fresh+Produce+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1711871,
+          -37.7915141
+        ]
+      },
+      "properties": {
+        "id": "b8420cdb5b0766d8",
+        "name": "Great Earth Super Discount Health Shop",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "health food",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:51.110028+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Great+Earth+Super+Discount+Health+Shop+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2688605,
+          -37.7837743
+        ]
+      },
+      "properties": {
+        "id": "7bba3915815adf46",
+        "name": "Health Food Thyme",
+        "address": "12-14 McAdam Square Croydon VIC 3136",
+        "suburb": "Croydon",
+        "postcode": "3136",
+        "section_id": "outer-east",
+        "phone": "+61 3 9725 9907",
+        "website": "http://www.healthfoodthyme.com.au/",
+        "category": "health food",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:27.308020+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Health+Food+Thyme+12-14+McAdam+Square+Croydon+VIC+3136+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0835,
+          -37.8868
+        ]
+      },
+      "properties": {
+        "id": "a3442dc1ae164f50",
+        "name": "Healthy Life Chadstone",
+        "address": "Chadstone Shopping Centre, Chadstone VIC 3148",
+        "suburb": "Chadstone",
+        "postcode": "3148",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "health food store",
+        "notes": "Health food retailer",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:19.232806+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Healthy+Life+Chadstone+Chadstone+Shopping+Centre%2C+Chadstone+VIC+3148+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2380245,
+          -37.8245907
+        ]
+      },
+      "properties": {
+        "id": "fa18a0a621a7d59e",
+        "name": "Heathmont Farmers Market",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "marketplace",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:13.730886+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Heathmont+Farmers+Market+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2463224,
+          -37.8288798
+        ]
+      },
+      "properties": {
+        "id": "ceef5f1dc5db2aa1",
+        "name": "Just Healthy",
+        "address": "164 Canterbury Road Heathmont VIC 3135",
+        "suburb": "Heathmont",
+        "postcode": "3135",
+        "section_id": "outer-east",
+        "phone": "+61 3 9729 5028",
+        "website": "https://m.facebook.com/pages/Just-Healthy-Foods-Therapies/1374991259402999",
+        "category": "health food",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:27.456930+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Just+Healthy+164+Canterbury+Road+Heathmont+VIC+3135+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2356995,
+          -37.7943878
+        ]
+      },
+      "properties": {
+        "id": "b95927d2a96373b2",
+        "name": "Kennedy's Deli and Fine Foods",
+        "address": "202 Warrandyte Road VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "+61 407 607 460",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:27.168796+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kennedy%27s+Deli+and+Fine+Foods+202+Warrandyte+Road+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.177987,
+          -37.8758749
+        ]
+      },
+      "properties": {
+        "id": "e2174da59b2a776f",
+        "name": "Kerrie Road Fruit Market",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "+61 3 9886 7107",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:51.637959+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerrie+Road+Fruit+Market+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1349025,
+          -37.819096
+        ]
+      },
+      "properties": {
+        "id": "04fd45080a896749",
+        "name": "Kwan's Dim Sim",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:19.342840+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kwan%27s+Dim+Sim+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1378305,
+          -37.8127834
+        ]
+      },
+      "properties": {
+        "id": "91547a8e300642cf",
+        "name": "Little Super Girl",
+        "address": "58 Lexton Road Box Hill North VIC 3129",
+        "suburb": "Box Hill North",
+        "postcode": "3129",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:26.874317+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Little+Super+Girl+58+Lexton+Road+Box+Hill+North+VIC+3129+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1122183,
+          -37.772572
+        ]
+      },
+      "properties": {
+        "id": "741b894e81ded310",
+        "name": "Macedon Fresh Fruit & Veg",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:21.361498+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Macedon+Fresh+Fruit+%26+Veg+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1432494,
+          -37.8915149
+        ]
+      },
+      "properties": {
+        "id": "c5e4e5ec5e1fd3fb",
+        "name": "Marketa & Co",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:51.206499+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marketa+%26+Co+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.148345,
+          -37.9178673
+        ]
+      },
+      "properties": {
+        "id": "5a4d07686a5c3c8d",
+        "name": "Middy's",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "wholesale",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:09.013330+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Middy%27s+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.149045,
+          -37.7888175
+        ]
+      },
+      "properties": {
+        "id": "64b21361982eef46",
+        "name": "Mirabella Bros Fruit Market",
+        "address": "54 Jackson Court VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "+61 3 9848 8770",
+        "website": "https://mirabellasfresh.com.au",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:52.279172+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mirabella+Bros+Fruit+Market+54+Jackson+Court+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.236077,
+          -37.7944195
+        ]
+      },
+      "properties": {
+        "id": "2232fc6bf27ba9e9",
+        "name": "North Ringwood Fruit Market",
+        "address": "204-206 Warrandyte Road Ringwood North VIC 3134",
+        "suburb": "Ringwood North",
+        "postcode": "3134",
+        "section_id": "outer-east",
+        "phone": "+61 449 714 115",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:11.617100+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=North+Ringwood+Fruit+Market+204-206+Warrandyte+Road+Ringwood+North+VIC+3134+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1484415,
+          -37.7887284
+        ]
+      },
+      "properties": {
+        "id": "667d28f148cacbe0",
+        "name": "Olympus Delicatessen",
+        "address": "72 Jackson Court VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "+61 3 9848 5217",
+        "website": "https://www.olympusdeli.elocal.com.au",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:52.246801+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Olympus+Delicatessen+72+Jackson+Court+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2290809,
+          -37.8122488
+        ]
+      },
+      "properties": {
+        "id": "fd9f361c6630e447",
+        "name": "Omed Fresh Market",
+        "address": "171-175 Maroondah Highway Ringwood VIC 3134",
+        "suburb": "Ringwood",
+        "postcode": "3134",
+        "section_id": "outer-east",
+        "phone": "+61 3 9870 5346",
+        "website": "",
+        "category": "organic greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:11.095686+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Omed+Fresh+Market+171-175+Maroondah+Highway+Ringwood+VIC+3134+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1378855,
+          -37.8953916
+        ]
+      },
+      "properties": {
+        "id": "81105542c83099d7",
+        "name": "Plant Factory",
+        "address": "62-66 Ricketts Road VIC 3149",
+        "suburb": "",
+        "postcode": "3149",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "https://plantfactory.com.au",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:18.444808+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Plant+Factory+62-66+Ricketts+Road+VIC+3149+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2482463,
+          -37.8139884
+        ]
+      },
+      "properties": {
+        "id": "d35875b950fe78b4",
+        "name": "Ringwood East Community Market",
+        "address": "Ringwood East VIC 3135",
+        "suburb": "Ringwood East",
+        "postcode": "3135",
+        "section_id": "outer-east",
+        "phone": "+61 492 897 437",
+        "website": "",
+        "category": "marketplace",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:11.963642+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ringwood+East+Community+Market+Ringwood+East+VIC+3135+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.222691,
+          -37.8157749
+        ]
+      },
+      "properties": {
+        "id": "0ba06336d9fa0915",
+        "name": "Ringwood Fresh Green Grocer",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:03.432126+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ringwood+Fresh+Green+Grocer+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.153073,
+          -37.8114463
+        ]
+      },
+      "properties": {
+        "id": "0456ffdc1ff8e9db",
+        "name": "Sacca's Fine Foods",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "+61 3 9334 2508",
+        "website": "https://www.saccas.com.au/",
+        "category": "organic greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:12.905752+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sacca%27s+Fine+Foods+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1275579,
+          -37.8761786
+        ]
+      },
+      "properties": {
+        "id": "e00ce65cd6a94fc7",
+        "name": "Sam's Fruit World",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:53.651926+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sam%27s+Fruit+World+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.266826,
+          -37.7901276
+        ]
+      },
+      "properties": {
+        "id": "dd0e881df47c6b16",
+        "name": "The Full Pantry",
+        "address": "66-68 Maroondah Highway Croydon VIC 3136",
+        "suburb": "Croydon",
+        "postcode": "3136",
+        "section_id": "outer-east",
+        "phone": "+61 3 9723 7466",
+        "website": "https://www.thefullpantry.com.au/",
+        "category": "health food",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:08.675884+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The+Full+Pantry+66-68+Maroondah+Highway+Croydon+VIC+3136+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1700224,
+          -37.7907993
+        ]
+      },
+      "properties": {
+        "id": "39ed196800eed095",
+        "name": "Tunstall Fresh",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "outer-east",
+        "phone": "+61 3 9842 1820",
+        "website": "https://tunstallfresh.com.au/",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:50.934852+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tunstall+Fresh+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2108725,
+          -37.740554
+        ]
+      },
+      "properties": {
+        "id": "f9483d9fa0a7de70",
+        "name": "Warrandyte Riverside Market",
+        "address": "Warrandyte VIC 3113",
+        "suburb": "Warrandyte",
+        "postcode": "3113",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "https://www.warrandyteriversidemarket.com.au/",
+        "category": "marketplace",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:20.185492+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Warrandyte+Riverside+Market+Warrandyte+VIC+3113+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2308637,
+          -37.847719
+        ]
+      },
+      "properties": {
+        "id": "ea98901cd992caf2",
+        "name": "Whole Living",
+        "address": "322 Mountain Highway Wantirna VIC 3152",
+        "suburb": "Wantirna",
+        "postcode": "3152",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "health food",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:27.082353+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Whole+Living+322+Mountain+Highway+Wantirna+VIC+3152+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1378483,
+          -37.8126873
+        ]
+      },
+      "properties": {
+        "id": "e8812e795b77c3c2",
+        "name": "Zhonghua Express",
+        "address": "58 Lexton Road Box Hill North VIC 3129",
+        "suburb": "Box Hill North",
+        "postcode": "3129",
+        "section_id": "outer-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:26.824775+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Zhonghua+Express+58+Lexton+Road+Box+Hill+North+VIC+3129+Melbourne"
+      }
+    }
+  ],
+  "metadata": {
+    "project": "natures-pinch-shop-finder",
+    "exported_at": "2026-09-17T13:48:34.023330+00:00",
+    "count": 45
+  }
+}

@@ -1,0 +1,1690 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0843724,
+          -37.813052
+        ]
+      },
+      "properties": {
+        "id": "ea5a8f76a5276e08",
+        "name": "Balwyn Fruit Supply",
+        "address": "419 Whitehorse Road Balwyn VIC 3103",
+        "suburb": "Balwyn",
+        "postcode": "3103",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:55.439485+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Balwyn+Fruit+Supply+419+Whitehorse+Road+Balwyn+VIC+3103+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9924899,
+          -37.8462769
+        ]
+      },
+      "properties": {
+        "id": "c18677f395d6d316",
+        "name": "Barossa Fine Foods",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:06.978224+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Barossa+Fine+Foods+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0427072,
+          -37.8759594
+        ]
+      },
+      "properties": {
+        "id": "e72e9d9bd19c02ce",
+        "name": "Beaucare",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "health food",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:01.080998+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beaucare+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0358,
+          -37.8218
+        ]
+      },
+      "properties": {
+        "id": "6c8a8eafd2e97809",
+        "name": "Bird & Co Organics",
+        "address": "Glenferrie Road precinct, Hawthorn VIC 3122",
+        "suburb": "Hawthorn",
+        "postcode": "3122",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "organic / specialty",
+        "notes": "Verify exact shopfront on Glenferrie Rd visit",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:18.958495+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bird+%26+Co+Organics+Glenferrie+Road+precinct%2C+Hawthorn+VIC+3122+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9964104,
+          -37.8765915
+        ]
+      },
+      "properties": {
+        "id": "793a2692533cd9be",
+        "name": "Bukuria Quality Smallgoods",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:09.213143+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bukuria+Quality+Smallgoods+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0578248,
+          -37.831119
+        ]
+      },
+      "properties": {
+        "id": "7d43ac83bdf72789",
+        "name": "Camberwell Fresh Food Market",
+        "address": "525 Riversdale Road Camberwell VIC 3124",
+        "suburb": "Camberwell",
+        "postcode": "3124",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "organic marketplace",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:24.859673+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Camberwell+Fresh+Food+Market+525+Riversdale+Road+Camberwell+VIC+3124+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0579477,
+          -37.8297223
+        ]
+      },
+      "properties": {
+        "id": "d0a7878f11975b4f",
+        "name": "Camberwell Sunday Market",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "https://camberwellsundaymarket.org/",
+        "category": "marketplace",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:23.067368+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Camberwell+Sunday+Market+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9925025,
+          -37.846207
+        ]
+      },
+      "properties": {
+        "id": "1a79e0a1e486b0c9",
+        "name": "Chaso's Gourmet Deli",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:06.898211+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chaso%27s+Gourmet+Deli+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.992471,
+          -37.8464174
+        ]
+      },
+      "properties": {
+        "id": "8621cb3943fce51f",
+        "name": "Cleo's Deli",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:07.190306+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cleo%27s+Deli+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99035,
+          -37.78853
+        ]
+      },
+      "properties": {
+        "id": "db9fbab06895ce7f",
+        "name": "DailyFresher Fruit & Vegetables",
+        "address": "322 Queens Parade VIC 3068",
+        "suburb": "",
+        "postcode": "3068",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:53.095213+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=DailyFresher+Fruit+%26+Vegetables+322+Queens+Parade+VIC+3068+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9988218,
+          -37.8178569
+        ]
+      },
+      "properties": {
+        "id": "7f1ff3f3f779479e",
+        "name": "Demaria's Grocer",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:09.990417+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Demaria%27s+Grocer+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9991165,
+          -37.8178184
+        ]
+      },
+      "properties": {
+        "id": "09f4a5c61a3bba01",
+        "name": "Demaria's Grocer",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:10.428479+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Demaria%27s+Grocer+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9924679,
+          -37.8461791
+        ]
+      },
+      "properties": {
+        "id": "ef6b909ec7c44408",
+        "name": "Food House Deli",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:07.469396+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Food+House+Deli+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.003641,
+          -37.8025565
+        ]
+      },
+      "properties": {
+        "id": "83981097a4094ff5",
+        "name": "Food Market (4th Saturday)",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "marketplace",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:58.073338+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Food+Market+%284th+Saturday%29+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9925331,
+          -37.8457992
+        ]
+      },
+      "properties": {
+        "id": "35559a10950fc608",
+        "name": "Fruto",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:07.357583+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fruto+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0016485,
+          -37.8170454
+        ]
+      },
+      "properties": {
+        "id": "abf51628b8d34a7e",
+        "name": "Gleadell Street Market",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "https://www.yarracity.vic.gov.au/the-area/visiting-yarra/markets/gleadell-street-market",
+        "category": "marketplace",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:11.658851+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gleadell+Street+Market+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0355,
+          -37.8225
+        ]
+      },
+      "properties": {
+        "id": "3641f7b5c85023d2",
+        "name": "Hawthorn Organic Food Store / local organics cluster",
+        "address": "Glenferrie Road precinct, Hawthorn VIC 3122",
+        "suburb": "Hawthorn",
+        "postcode": "3122",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "organic grocery",
+        "notes": "Walk Glenferrie Rd for independents",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:38:27.121828+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hawthorn+Organic+Food+Store+%2F+local+organics+cluster+Glenferrie+Road+precinct%2C+Hawthorn+VIC+3122+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0775743,
+          -37.7841418
+        ]
+      },
+      "properties": {
+        "id": "2d377d914da22570",
+        "name": "HelleniCo Deli",
+        "address": "121 Bulleen Road VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "+61 3 9857 0135",
+        "website": "https://www.hellenicodeli.com.au/",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:10.890243+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HelleniCo+Deli+121+Bulleen+Road+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9967284,
+          -37.8765215
+        ]
+      },
+      "properties": {
+        "id": "c6ab962bf316e009",
+        "name": "Klein's Gourmet Food",
+        "address": "47 Glen Eira Road Ripponlea VIC 3185",
+        "suburb": "Ripponlea",
+        "postcode": "3185",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:26.992705+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Klein%27s+Gourmet+Food+47+Glen+Eira+Road+Ripponlea+VIC+3185+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0021439,
+          -37.8190285
+        ]
+      },
+      "properties": {
+        "id": "8f6599e2b8ad795b",
+        "name": "Laikon Deli",
+        "address": "324 Bridge Road Richmond VIC 3121",
+        "suburb": "Richmond",
+        "postcode": "3121",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "https://www.laikondeli.com.au/",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:55.289430+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Laikon+Deli+324+Bridge+Road+Richmond+VIC+3121+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9936967,
+          -37.8253178
+        ]
+      },
+      "properties": {
+        "id": "602c4109c8f83c3e",
+        "name": "Localized Organic Food Store",
+        "address": "116 Swan Street VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "health food",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:00.073837+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Localized+Organic+Food+Store+116+Swan+Street+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0390684,
+          -37.8754994
+        ]
+      },
+      "properties": {
+        "id": "0ce7f2986a4ff0e3",
+        "name": "Maita",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:12.366603+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maita+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0918702,
+          -37.8751549
+        ]
+      },
+      "properties": {
+        "id": "57cb6560d1a56bb6",
+        "name": "Maxmore",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "health food",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:00.950870+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maxmore+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0473435,
+          -37.8331941
+        ]
+      },
+      "properties": {
+        "id": "4a0b605d0710fd71",
+        "name": "McCoppins Food & Wine",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:08.631477+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=McCoppins+Food+%26+Wine+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1053014,
+          -37.8203525
+        ]
+      },
+      "properties": {
+        "id": "6447c45d7c1e9543",
+        "name": "Mont Albert Fresh Fruit & Vegetables",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "organic greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:18.894269+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mont+Albert+Fresh+Fruit+%26+Vegetables+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9925248,
+          -37.8463531
+        ]
+      },
+      "properties": {
+        "id": "99ef6072b7f1be8a",
+        "name": "Naheda's Choice",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:06.832525+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Naheda%27s+Choice+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9925682,
+          -37.8460307
+        ]
+      },
+      "properties": {
+        "id": "022df7cb951a1148",
+        "name": "Naheda’s Choice",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:12.758046+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Naheda%E2%80%99s+Choice+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9830413,
+          -37.7840326
+        ]
+      },
+      "properties": {
+        "id": "43d13794256c8d29",
+        "name": "Obelix & Co",
+        "address": "217 St Georges Road VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "+61 3 9077 2974",
+        "website": "https://obelixandco.com.au/",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:52.701608+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Obelix+%26+Co+217+St+Georges+Road+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9924783,
+          -37.8463446
+        ]
+      },
+      "properties": {
+        "id": "07fd09c7307fe946",
+        "name": "Pete n' Rosies",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:07.134118+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pete+n%27+Rosies+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9929051,
+          -37.8459327
+        ]
+      },
+      "properties": {
+        "id": "0f38f7d4d789defd",
+        "name": "Pino's Fresh Produce",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:07.406839+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pino%27s+Fresh+Produce+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9925928,
+          -37.8460646
+        ]
+      },
+      "properties": {
+        "id": "df5fb7c2d96c85b6",
+        "name": "Prahran Market",
+        "address": "163 Commercial Road VIC 3141",
+        "suburb": "",
+        "postcode": "3141",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "https://www.prahranmarket.com.au/",
+        "category": "marketplace",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:22.543522+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Prahran+Market+163+Commercial+Road+VIC+3141+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0361977,
+          -37.8195972
+        ]
+      },
+      "properties": {
+        "id": "de3985d6f9bf1fc2",
+        "name": "Providore",
+        "address": "722 Glenferrie Road VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:25.226370+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Providore+722+Glenferrie+Road+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9927182,
+          -37.8458345
+        ]
+      },
+      "properties": {
+        "id": "66b92d6ef4ecc768",
+        "name": "Reliable Fruit",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:07.312770+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Reliable+Fruit+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9975,
+          -37.8235
+        ]
+      },
+      "properties": {
+        "id": "204c08c6911939f7",
+        "name": "Richmond Swan Street specialty foods",
+        "address": "Swan Street, Richmond VIC 3121",
+        "suburb": "Richmond",
+        "postcode": "3121",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "gourmet strip",
+        "notes": "Inner-east independents",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:20.279367+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Richmond+Swan+Street+specialty+foods+Swan+Street%2C+Richmond+VIC+3121+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0712586,
+          -37.7926114
+        ]
+      },
+      "properties": {
+        "id": "7a158335ffd86185",
+        "name": "Salzano Delicatessen",
+        "address": "73 Doncaster Road VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "+61 3 9859 0588",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:04.842823+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Salzano+Delicatessen+73+Doncaster+Road+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0848285,
+          -37.8131298
+        ]
+      },
+      "properties": {
+        "id": "4f1f68c871fb408f",
+        "name": "Signorelli Fresh",
+        "address": "433 Whitehorse Road Balwyn VIC 3103",
+        "suburb": "Balwyn",
+        "postcode": "3103",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:55.366593+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Signorelli+Fresh+433+Whitehorse+Road+Balwyn+VIC+3103+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0714684,
+          -37.7926631
+        ]
+      },
+      "properties": {
+        "id": "abc22184e15a8e09",
+        "name": "Signorelli's",
+        "address": "79 Doncaster Road Balwyn North VIC 3104",
+        "suburb": "Balwyn North",
+        "postcode": "3104",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:04.684136+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Signorelli%27s+79+Doncaster+Road+Balwyn+North+VIC+3104+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.984232,
+          -37.800176
+        ]
+      },
+      "properties": {
+        "id": "673ed9d19f906671",
+        "name": "Smith Street Alimentari",
+        "address": "302 Smith Street Collingwood VIC 3066",
+        "suburb": "Collingwood",
+        "postcode": "3066",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:52.929124+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Smith+Street+Alimentari+302+Smith+Street+Collingwood+VIC+3066+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9823458,
+          -37.8343193
+        ]
+      },
+      "properties": {
+        "id": "db9c1852a0d45563",
+        "name": "South Yarra Finer Fruit",
+        "address": "123B Park Street VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "+61 3 9866 2746",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:51.550044+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=South+Yarra+Finer+Fruit+123B+Park+Street+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0294203,
+          -37.8578573
+        ]
+      },
+      "properties": {
+        "id": "86249698d0add563",
+        "name": "Stan's Deli",
+        "address": "248b Glenferrie Road VIC 3144",
+        "suburb": "",
+        "postcode": "3144",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:13.676050+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Stan%27s+Deli+248b+Glenferrie+Road+VIC+3144+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9959035,
+          -37.8093939
+        ]
+      },
+      "properties": {
+        "id": "02216c68de9d1208",
+        "name": "TDP Marts Abbotsford",
+        "address": "313 Victoria Street Abbotsford VIC 3067",
+        "suburb": "Abbotsford",
+        "postcode": "3067",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:19.675084+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TDP+Marts+Abbotsford+313+Victoria+Street+Abbotsford+VIC+3067+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9925364,
+          -37.8462677
+        ]
+      },
+      "properties": {
+        "id": "f5c088be6002ed3e",
+        "name": "The Cheese Shop Deli",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:06.807481+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The+Cheese+Shop+Deli+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0780847,
+          -37.8631005
+        ]
+      },
+      "properties": {
+        "id": "70ce6fdd4db6a6f0",
+        "name": "The Corner Deli",
+        "address": "229 High Street Ashburton VIC 3147",
+        "suburb": "Ashburton",
+        "postcode": "3147",
+        "section_id": "inner-east",
+        "phone": "+61 3 9985 1808",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:52.816799+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The+Corner+Deli+229+High+Street+Ashburton+VIC+3147+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9921586,
+          -37.7874566
+        ]
+      },
+      "properties": {
+        "id": "1f3351cecd02979a",
+        "name": "The Fermentary",
+        "address": "394 Queens Parade VIC 3068",
+        "suburb": "",
+        "postcode": "3068",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "https://www.thefermentary.com.au/",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:26.362509+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The+Fermentary+394+Queens+Parade+VIC+3068+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0930784,
+          -37.8499983
+        ]
+      },
+      "properties": {
+        "id": "2cfab34686728e62",
+        "name": "The Rustic Table Delicatessen & Cafe",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:22.260977+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The+Rustic+Table+Delicatessen+%26+Cafe+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0352,
+          -37.8228
+        ]
+      },
+      "properties": {
+        "id": "442db402bf9ae7d3",
+        "name": "The Source Bulk Foods Hawthorn",
+        "address": "670 Glenferrie Road, Hawthorn VIC 3122",
+        "suburb": "Hawthorn",
+        "postcode": "3122",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "https://www.thesourcebulkfoods.com.au",
+        "category": "bulk / wholefoods",
+        "notes": "Bulk wholefoods chain — check spice range & buyer",
+        "source": "seed",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:19.001823+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The+Source+Bulk+Foods+Hawthorn+670+Glenferrie+Road%2C+Hawthorn+VIC+3122+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0779546,
+          -37.8630815
+        ]
+      },
+      "properties": {
+        "id": "584fe2e8a3b82256",
+        "name": "Top Shelf Fruits",
+        "address": "225 High Street Ashburton VIC 3147",
+        "suburb": "Ashburton",
+        "postcode": "3147",
+        "section_id": "inner-east",
+        "phone": "+61 3 9885 2242",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:52.739112+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Top+Shelf+Fruits+225+High+Street+Ashburton+VIC+3147+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0325457,
+          -37.8060227
+        ]
+      },
+      "properties": {
+        "id": "7edcb971eefa1dea",
+        "name": "Toscano's",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:10.497623+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Toscano%27s+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0937848,
+          -37.7916066
+        ]
+      },
+      "properties": {
+        "id": "cd58fbc4a320410b",
+        "name": "Viva La Fruit",
+        "address": "VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "greengrocer",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:55.572933+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Viva+La+Fruit+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9958581,
+          -37.8550654
+        ]
+      },
+      "properties": {
+        "id": "fffeff24fdecbf0b",
+        "name": "Windsor Deli",
+        "address": "33 Hornby Street VIC",
+        "suburb": "",
+        "postcode": "",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "deli",
+        "notes": "Found via OpenStreetMap Overpass",
+        "source": "overpass",
+        "priority": "medium",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:42:06.591309+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Windsor+Deli+33+Hornby+Street+VIC+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0586,
+          -37.8264
+        ]
+      },
+      "properties": {
+        "id": "113e59a0f4724f85",
+        "name": "Camberwell Fresh Food Market",
+        "address": "19 Station Street, Camberwell VIC 3124",
+        "suburb": "Camberwell",
+        "postcode": "3124",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "fresh food market / wholesale precinct",
+        "notes": "Fresh food / wholesale precinct",
+        "source": "seed",
+        "priority": "high",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:17.518343+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Camberwell+Fresh+Food+Market+19+Station+Street%2C+Camberwell+VIC+3124+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0575,
+          -37.8305
+        ]
+      },
+      "properties": {
+        "id": "7011052e12c52282",
+        "name": "Camberwell Fresh Food Market / Wholesale area",
+        "address": "Camberwell Road / Market precinct, Camberwell VIC 3124",
+        "suburb": "Camberwell",
+        "postcode": "3124",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "fresh food / wholesale precinct",
+        "notes": "Wholesale / fresh food precinct — verify stalls & buyers",
+        "source": "seed",
+        "priority": "high",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:38:26.057906+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Camberwell+Fresh+Food+Market+%2F+Wholesale+area+Camberwell+Road+%2F+Market+precinct%2C+Camberwell+VIC+3124+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0575,
+          -37.8305
+        ]
+      },
+      "properties": {
+        "id": "e586a229ab7b2e47",
+        "name": "Camberwell Junction specialty & deli strip",
+        "address": "Burke Road / Camberwell Road, Camberwell VIC 3124",
+        "suburb": "Camberwell",
+        "postcode": "3124",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "gourmet strip",
+        "notes": "Walk Junction for delis & specialty",
+        "source": "seed",
+        "priority": "high",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:20.250830+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Camberwell+Junction+specialty+%26+deli+strip+Burke+Road+%2F+Camberwell+Road%2C+Camberwell+VIC+3124+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0285,
+          -37.8465
+        ]
+      },
+      "properties": {
+        "id": "258e9b8375cedaac",
+        "name": "Malvern / Glenferrie Rd South specialty",
+        "address": "Glenferrie Road, Malvern VIC 3144",
+        "suburb": "Malvern",
+        "postcode": "3144",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "gourmet strip",
+        "notes": "Premium inner-east strip",
+        "source": "seed",
+        "priority": "high",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:20.115174+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Malvern+%2F+Glenferrie+Rd+South+specialty+Glenferrie+Road%2C+Malvern+VIC+3144+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0365,
+          -37.8075
+        ]
+      },
+      "properties": {
+        "id": "3fac06368f62f3d6",
+        "name": "Terra Madre",
+        "address": "113 Cotham Road, Kew VIC 3101",
+        "suburb": "Kew",
+        "postcode": "3101",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "https://www.terramadre.com.au",
+        "category": "gourmet / specialty foods",
+        "notes": "Premium specialty foods — core Nature's Pinch example",
+        "source": "seed",
+        "priority": "high",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:17.450878+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Terra+Madre+113+Cotham+Road%2C+Kew+VIC+3101+Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0155,
+          -37.8405
+        ]
+      },
+      "properties": {
+        "id": "30fb66f1d57cfec1",
+        "name": "Toorak Village specialty foods",
+        "address": "Toorak Road, Toorak VIC 3142",
+        "suburb": "Toorak",
+        "postcode": "3142",
+        "section_id": "inner-east",
+        "phone": "",
+        "website": "",
+        "category": "gourmet strip",
+        "notes": "High-end independents",
+        "source": "seed",
+        "priority": "high",
+        "status": "prospect",
+        "visit_notes": "",
+        "rating": null,
+        "place_id": null,
+        "updated_at": "2026-09-17T13:41:20.160347+00:00",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Toorak+Village+specialty+foods+Toorak+Road%2C+Toorak+VIC+3142+Melbourne"
+      }
+    }
+  ],
+  "metadata": {
+    "project": "natures-pinch-shop-finder",
+    "exported_at": "2026-09-17T13:48:33.923236+00:00",
+    "count": 56
+  }
+}
